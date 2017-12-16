@@ -1,0 +1,9 @@
+{
+  "commitish" : "4.2.3",
+  "iOS" : [
+    {
+      "name" : "PKHUD",
+      "hash" : "82e6c2504e16d329f8406847e3450065fa6a7c7cfc4bae2c084910d55961becd"
+    }
+  ]
+}
