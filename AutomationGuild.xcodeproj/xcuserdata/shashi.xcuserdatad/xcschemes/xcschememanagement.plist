@@ -4,10 +4,23 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>AutomationGuild.xcscheme</key>
+		<key>AutomationGuild.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>9B367C9B1FE5D776006FA8EB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9B661C321FE56FBB008242A9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
