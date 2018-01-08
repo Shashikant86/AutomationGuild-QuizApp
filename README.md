@@ -2,7 +2,7 @@
 
 This is demo app created for the XCUITest Demo in the [Automation Guild Conference 2018](https://automationguild.com/)
 
-Please note that this is iniatal source of the app. Full Source Code of complete XCUITest are available in `completed-session` branch. Checkout that branch for complete source code. 
+Please note that this is initial source code of the app. Full Source Code with completed XCUITests is available in the `completed-session` branch. Checkout that branch for complete source code. 
 
 # Pre-requisite
 
